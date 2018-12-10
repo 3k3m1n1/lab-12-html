@@ -11,6 +11,9 @@ p {
 h1 {
     color: #7FBF7F;
     text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border: 5px dashed red;
 }
 
 h2 {
